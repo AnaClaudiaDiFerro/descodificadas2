@@ -1,0 +1,50 @@
+.quadrado {
+    width: 0px; 
+    height: 0px; 
+
+}
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+    
+   
+#p1 {
+    background-color:rgb(54, 199, 54);
+}
+
+#p2 {
+    background-color:  rgb(223, 226, 26);
+}
+
+#p3 {
+    background-color: rgb(226, 144, 21);
+    
+}
+#p4{
+    background-color: rgb(5, 182, 108);
+}
+
+#p5{
+    background-color: rgb(28, 195, 247);
+}
+
+#p6{
+    background-color: rgb(60, 115, 218);
+}
+
+#p7{
+    background-color: rgb(206, 107, 127);
+}
+
+#p8{
+    background-color: darkcyan;
+}
+
+#p9{
+    background-color: rgb(13, 255, 255);
+}
+#p10{
+    background-color: rgb(169, 132, 204);
+}
+
